@@ -1,0 +1,79 @@
+2024 states 49 SSI sd 37.0
+  TANF poly deg 1: SSI slope +0.163 (se 0.083); intercept at TANF 0, base SSI 1435; max abs resid 84.6
+  TANF poly deg 2: SSI slope +0.148 (se 0.086); intercept at TANF 0, base SSI 1441; max abs resid 82.9
+  TANF poly deg 3: SSI slope +0.161 (se 0.087); intercept at TANF 0, base SSI 1432; max abs resid 81.7
+  TANF poly deg 4: SSI slope +0.208 (se 0.071); intercept at TANF 0, base SSI 1391; max abs resid 57.6
+  TANF<$700 only (32 states) deg 1: SSI slope -0.462 (se 0.052); intercept 1444; max abs resid 12.9
+  TANF<$700 only (32 states) deg 2: SSI slope -0.337 (se 0.059); intercept 1431; max abs resid 8.0
+2023 states 49 SSI sd 36.2
+  TANF poly deg 1: SSI slope +0.104 (se 0.088); intercept at TANF 0, base SSI 1389; max abs resid 88.0
+  TANF poly deg 2: SSI slope +0.072 (se 0.088); intercept at TANF 0, base SSI 1402; max abs resid 84.0
+  TANF poly deg 3: SSI slope +0.089 (se 0.089); intercept at TANF 0, base SSI 1390; max abs resid 82.9
+  TANF poly deg 4: SSI slope +0.136 (se 0.077); intercept at TANF 0, base SSI 1353; max abs resid 59.8
+  TANF<$700 only (30 states) deg 1: SSI slope -0.515 (se 0.057); intercept 1402; max abs resid 11.6
+  TANF<$700 only (30 states) deg 2: SSI slope -0.393 (se 0.054); intercept 1387; max abs resid 7.5
+2019 states 49 SSI sd 38.3
+  TANF poly deg 1: SSI slope +0.074 (se 0.076); intercept at TANF 0, base SSI 1038; max abs resid 97.9
+  TANF poly deg 2: SSI slope +0.074 (se 0.077); intercept at TANF 0, base SSI 1038; max abs resid 97.8
+  TANF poly deg 3: SSI slope +0.113 (se 0.084); intercept at TANF 0, base SSI 1026; max abs resid 98.9
+  TANF poly deg 4: SSI slope +0.118 (se 0.084); intercept at TANF 0, base SSI 1016; max abs resid 96.5
+  TANF<$700 only (28 states) deg 1: SSI slope -0.275 (se 0.031); intercept 1044; max abs resid 17.2
+  TANF<$700 only (28 states) deg 2: SSI slope -0.203 (se 0.024); intercept 1027; max abs resid 7.3
+2018 states 49 SSI sd 38.7
+  TANF poly deg 1: SSI slope -0.039 (se 0.051); intercept at TANF 0, base SSI 1069; max abs resid 62.2
+  TANF poly deg 2: SSI slope -0.039 (se 0.052); intercept at TANF 0, base SSI 1069; max abs resid 62.2
+  TANF poly deg 3: SSI slope +0.010 (se 0.054); intercept at TANF 0, base SSI 1053; max abs resid 62.2
+  TANF poly deg 4: SSI slope +0.013 (se 0.055); intercept at TANF 0, base SSI 1049; max abs resid 61.7
+  TANF<$700 only (29 states) deg 1: SSI slope -0.275 (se 0.030); intercept 1069; max abs resid 17.4
+  TANF<$700 only (29 states) deg 2: SSI slope -0.200 (se 0.023); intercept 1052; max abs resid 6.8
+                             snap         tanf         ssi
+state                                                     
+Wisconsin             1400.400024     0.000000  699.299988
+Alabama               1394.199951   188.500000  633.599976
+Arkansas              1391.699951   189.500000  633.599976
+Mississippi           1381.099976   229.699997  633.599976
+North Carolina        1376.500000   252.800003  633.599976
+Georgia               1369.300049   277.100006  633.599976
+Indiana               1367.900024   281.100006  633.599976
+Idaho                 1357.800049   286.299988  667.599976
+Arizona               1358.400024   314.500000  633.599976
+Missouri              1356.599976   321.299988  633.599976
+Kentucky              1349.400024   328.799988  633.599976
+Oklahoma              1336.800049   358.799988  668.000000
+Nevada                1338.900024   381.600006  633.599976
+Texas                 1337.000000   387.799988  633.599976
+Iowa                  1334.400024   397.299988  633.599976
+South Carolina        1324.900024   430.500000  633.599976
+Kansas                1314.400024   446.799988  633.599976
+Florida               1316.599976   459.200012  633.599976
+Louisiana             1306.400024   481.299988  633.599976
+North Dakota          1298.699951   507.899994  633.599976
+Oregon                1301.300049   511.399994  633.599976
+New Jersey            1295.000000   517.900024  653.500000
+Delaware              1298.400024   523.400024  633.599976
+Colorado              1295.900024   529.599976  633.599976
+West Virginia         1292.199951   544.200012  633.599976
+Pennsylvania          1284.199951   559.099976  648.900024
+New Mexico            1280.199951   584.900024  633.599976
+Tennessee             1271.300049   621.299988  633.599976
+South Dakota          1260.000000   623.500000  642.799988
+Illinois              1257.400024   663.500000  633.599976
+Michigan              1246.099976   692.200012  644.400024
+Washington            1239.800049   698.400024  669.500000
+New York              1230.699951   708.900024  697.799988
+Utah                  1235.099976   740.000000  634.500000
+Nebraska              1229.300049   759.099976  636.599976
+Connecticut           1195.500000   781.500000  749.599976
+Maine                 1201.900024   848.700012  641.000000
+Maryland              1198.199951   867.700012  633.599976
+Ohio                  1183.699951   921.299988  633.599976
+District of Columbia  1182.300049   921.500000  633.599976
+Montana               1174.400024   951.500000  633.599976
+Massachusetts         1129.400024  1043.199951  722.799988
+Vermont               1112.199951  1141.300049  677.700012
+Rhode Island          1108.800049  1162.300049  664.900024
+Virginia              1047.599976  1501.099976  633.599976
+New Hampshire         1005.299988  1516.599976  659.000000
+Wyoming                932.500000  1802.000000  652.099976
+California            1056.300049  1813.400024  834.400024
+Minnesota              859.700012  2031.000000  687.000000

@@ -1,0 +1,22 @@
+51 jurisdictions: SNAP gap on TANF gap, correlation -0.969, slope -0.275
+49 (without AK, HI): SNAP gap on TANF gap, correlation -0.975, slope -0.277
+
+PolicyEngine-US SNAP furthest below Brookings':
+       snap_bk  snap_pe  snap_ratio  tanf_bk  tanf_pe
+state                                                
+CA     1056.28   739.52        0.70  1813.43  2195.64
+WI     1400.44  1056.30        0.75     0.00  1125.85
+ND     1298.72  1032.98        0.80   507.92  1254.20
+NH     1005.33   844.63        0.84  1516.62  1898.04
+CT     1195.48  1022.99        0.86   781.54  1274.94
+
+PolicyEngine-US SNAP furthest above Brookings':
+       snap_bk  snap_pe  snap_ratio  tanf_bk  tanf_pe
+state                                                
+MT     1174.37  1301.84        1.11   951.49   229.53
+DC     1182.31  1324.04        1.12   921.47   168.33
+WY      932.48  1059.19        1.14  1801.97  1143.70
+VA     1047.64  1247.26        1.19  1501.10   517.26
+MN      859.67  1083.56        1.26  2030.97  1017.96
+
+PolicyEngine-US TANF above Brookings' in the 5 lowest SNAP ratios: 5/5; below Brookings' in the 5 highest: 5/5

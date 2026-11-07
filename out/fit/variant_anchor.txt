@@ -1,0 +1,93 @@
+
+=== fam notw unit: families 95135, weight/yr 27.11m, any disabled 0.0860 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2711/0.2617  Ref0 0.5680/0.5760  Par0 0.0749/0.0752  Sin1 0.0361/0.0355  Ref1 0.0395/0.0393  Par1 0.0105/0.0122  | abs err sum 0.0201
+  EITC ratio x1.00: Sin0 1.033  Ref0 1.172  Par0 1.093  Sin1 0.822  Ref1 1.131  Par1 0.735
+  EITC ratio x1.05: Sin0 0.988  Ref0 1.058  Par0 1.037  Sin1 0.802  Ref1 1.067  Par1 0.712
+
+=== fam notw hhscreen: families 90127, weight/yr 25.59m, any disabled 0.0849 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2535/0.2617  Ref0 0.5847/0.5760  Par0 0.0770/0.0752  Sin1 0.0345/0.0355  Ref1 0.0396/0.0393  Par1 0.0107/0.0122  | abs err sum 0.0214
+  EITC ratio x1.00: Sin0 1.039  Ref0 1.153  Par0 1.088  Sin1 0.861  Ref1 1.120  Par1 0.746
+  EITC ratio x1.05: Sin0 0.993  Ref0 1.040  Par0 1.031  Sin1 0.840  Ref1 1.055  Par1 0.722
+
+=== fam hp_sga unit: families 95135, weight/yr 27.11m, any disabled 0.0896 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2698/0.2617  Ref0 0.5662/0.5760  Par0 0.0745/0.0752  Sin1 0.0373/0.0355  Ref1 0.0413/0.0393  Par1 0.0109/0.0122  | abs err sum 0.0237
+  EITC ratio x1.00: Sin0 1.025  Ref0 1.161  Par0 1.086  Sin1 0.974  Ref1 1.141  Par1 0.784
+  EITC ratio x1.05: Sin0 0.978  Ref0 1.047  Par0 1.029  Sin1 0.966  Ref1 1.076  Par1 0.768
+
+=== fam hp_sga hhscreen: families 90127, weight/yr 25.59m, any disabled 0.0888 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2521/0.2617  Ref0 0.5826/0.5760  Par0 0.0765/0.0752  Sin1 0.0359/0.0355  Ref1 0.0417/0.0393  Par1 0.0112/0.0122  | abs err sum 0.0213
+  EITC ratio x1.00: Sin0 1.031  Ref0 1.141  Par0 1.080  Sin1 1.009  Ref1 1.131  Par1 0.798
+  EITC ratio x1.05: Sin0 0.984  Ref0 1.028  Par0 1.023  Sin1 1.000  Ref1 1.066  Par1 0.781
+
+=== hh notw: families 87577, weight/yr 24.73m, any disabled 0.0849 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2280/0.2617  Ref0 0.6086/0.5760  Par0 0.0785/0.0752  Sin1 0.0324/0.0355  Ref1 0.0415/0.0393  Par1 0.0110/0.0122  | abs err sum 0.0761
+  EITC ratio x1.00: Sin0 1.042  Ref0 1.123  Par0 1.063  Sin1 0.900  Ref1 1.125  Par1 0.739
+  EITC ratio x1.05: Sin0 0.994  Ref0 1.012  Par0 1.006  Sin1 0.877  Ref1 1.059  Par1 0.715
+
+=== hh hp_sga: families 87577, weight/yr 24.73m, any disabled 0.0892 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2263/0.2617  Ref0 0.6065/0.5760  Par0 0.0780/0.0752  Sin1 0.0341/0.0355  Ref1 0.0436/0.0393  Par1 0.0115/0.0122  | abs err sum 0.0751
+  EITC ratio x1.00: Sin0 1.035  Ref0 1.111  Par0 1.057  Sin1 1.038  Ref1 1.132  Par1 0.779
+  EITC ratio x1.05: Sin0 0.986  Ref0 1.001  Par0 0.999  Sin1 1.027  Ref1 1.066  Par1 0.762
+
+=== hh appendix: families 87577, weight/yr 24.73m, any disabled 0.1238 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2194/0.2617  Ref0 0.5825/0.5760  Par0 0.0743/0.0752  Sin1 0.0410/0.0355  Ref1 0.0676/0.0393  Par1 0.0152/0.0122  | abs err sum 0.0865
+  EITC ratio x1.00: Sin0 1.037  Ref0 1.103  Par0 1.055  Sin1 1.173  Ref1 0.870  Par1 0.822
+  EITC ratio x1.05: Sin0 0.988  Ref0 0.993  Par0 0.997  Sin1 1.145  Ref1 0.815  Par1 0.794
+
+=== fam nilf hhscreen: families 90127, weight/yr 25.59m, any disabled 0.0746 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2565/0.2617  Ref0 0.5903/0.5760  Par0 0.0786/0.0752  Sin1 0.0315/0.0355  Ref1 0.0340/0.0393  Par1 0.0091/0.0122  | abs err sum 0.0353
+  EITC ratio x1.00: Sin0 1.029  Ref0 1.177  Par0 1.081  Sin1 0.906  Ref1 1.121  Par1 0.757
+  EITC ratio x1.05: Sin0 0.984  Ref0 1.063  Par0 1.026  Sin1 0.885  Ref1 1.057  Par1 0.735
+
+=== fam appendix hhscreen: families 90127, weight/yr 25.59m, any disabled 0.1227 (Brookings 0.0870)
+  shares sample/Brookings: Sin0 0.2448/0.2617  Ref0 0.5597/0.5760  Par0 0.0728/0.0752  Sin1 0.0432/0.0355  Ref1 0.0646/0.0393  Par1 0.0149/0.0122  | abs err sum 0.0713
+  EITC ratio x1.00: Sin0 1.033  Ref0 1.134  Par0 1.080  Sin1 1.146  Ref1 0.869  Par1 0.834
+  EITC ratio x1.05: Sin0 0.987  Ref0 1.022  Par0 1.023  Sin1 1.120  Ref1 0.814  Par1 0.807
+
+best fifteen by rms_all:
+               sample  scale   std  rms_all  rms_benefit  rms_ea20  rms_eitc  ben_Sin  ben_Ref  ben_Par  ea20_Sin  ea20_Ref  ea20_Par  eitc_Sin  eitc_Ref  eitc_Par
+    fam notw hhscreen   1.07  True    0.025        0.030     0.027     0.015    1.028    1.002    1.045     0.976     0.993     1.040     0.976     1.000     1.010
+  fam hp_sga hhscreen   1.07  True    0.026        0.028     0.027     0.021    1.018    1.008    1.046     0.968     0.990     1.033     0.966     0.988     1.001
+fam appendix hhscreen   1.07  True    0.027        0.030     0.030     0.021    1.019    0.988    1.048     0.969     0.976     1.034     0.969     0.981     1.001
+              hh notw   1.07  True    0.032        0.025     0.043     0.023    0.966    0.983    1.020     0.939     0.972     1.028     0.976     0.972     0.984
+              hh notw   1.05  True    0.033        0.029     0.048     0.008    0.979    1.012    1.045     0.957     1.016     1.070     0.994     1.012     1.006
+        fam notw unit   1.10  True    0.033        0.025     0.031     0.041    1.032    0.988    1.027     0.969     0.963     1.025     0.945     0.961     0.985
+          hh appendix   1.05  True    0.035        0.036     0.047     0.008    0.965    0.996    1.052     0.949     0.999     1.065     0.988     0.993     0.997
+            hh hp_sga   1.05  True    0.035        0.037     0.048     0.008    0.964    1.018    1.051     0.948     1.013     1.064     0.986     1.001     0.999
+      fam hp_sga unit   1.07  True    0.036        0.048     0.033     0.024    1.041    1.041    1.062     0.981     1.014     1.053     0.960     1.006     1.007
+      fam hp_sga unit   1.10  True    0.037        0.020     0.032     0.051    1.023    0.998    1.026     0.962     0.963     1.014     0.934     0.950     0.975
+        fam notw unit   1.07  True    0.037        0.049     0.036     0.022    1.050    1.031    1.063     0.988     1.014     1.061     0.970     1.017     1.016
+fam appendix hhscreen   1.05  True    0.038        0.045     0.044     0.019    1.031    1.017    1.072     0.989     1.020     1.074     0.987     1.022     1.023
+    fam nilf hhscreen   1.05 False    0.038        0.038     0.037     0.039    0.966    0.950    0.995     0.974     0.997     1.061     0.984     1.063     1.026
+            hh hp_sga   1.07  True    0.039        0.033     0.048     0.033    0.951    0.989    1.026     0.929     0.970     1.023     0.967     0.961     0.977
+    fam notw hhscreen   1.10  True    0.039        0.025     0.042     0.046    1.011    0.960    1.009     0.958     0.943     1.005     0.950     0.944     0.979
+
+with the standard deduction, scale 1.00, 1.03 and 1.05 for each variant:
+               sample  scale  std  rms_all  rms_benefit  rms_ea20  rms_eitc  ben_Sin  ben_Ref  ben_Par  ea20_Sin  ea20_Ref  ea20_Par  eitc_Sin  eitc_Ref  eitc_Par
+        fam notw unit   1.00 True    0.127        0.130     0.143     0.107    1.096    1.149    1.163     1.062     1.174     1.195     1.033     1.172     1.093
+        fam notw unit   1.03 True    0.082        0.093     0.086     0.065    1.075    1.095    1.116     1.023     1.096     1.123     1.006     1.102     1.059
+        fam notw unit   1.05 True    0.060        0.070     0.067     0.039    1.062    1.062    1.089     1.007     1.060     1.104     0.988     1.058     1.037
+    fam notw hhscreen   1.00 True    0.112        0.109     0.126     0.098    1.076    1.118    1.142     1.052     1.151     1.172     1.039     1.153     1.088
+    fam notw hhscreen   1.03 True    0.066        0.072     0.069     0.056    1.054    1.065    1.097     1.012     1.072     1.101     1.012     1.084     1.054
+    fam notw hhscreen   1.05 True    0.044        0.049     0.050     0.029    1.041    1.032    1.070     0.996     1.038     1.082     0.993     1.040     1.031
+      fam hp_sga unit   1.00 True    0.124        0.130     0.138     0.099    1.087    1.157    1.161     1.056     1.174     1.184     1.025     1.161     1.086
+      fam hp_sga unit   1.03 True    0.079        0.093     0.082     0.058    1.066    1.104    1.115     1.016     1.095     1.115     0.997     1.091     1.052
+      fam hp_sga unit   1.05 True    0.057        0.069     0.062     0.034    1.053    1.071    1.088     1.000     1.059     1.095     0.978     1.047     1.029
+  fam hp_sga hhscreen   1.00 True    0.107        0.108     0.121     0.090    1.065    1.123    1.142     1.045     1.148     1.163     1.031     1.141     1.080
+  fam hp_sga hhscreen   1.03 True    0.062        0.071     0.065     0.047    1.044    1.070    1.097     1.004     1.069     1.094     1.003     1.071     1.045
+  fam hp_sga hhscreen   1.05 True    0.041        0.048     0.046     0.023    1.031    1.038    1.070     0.989     1.034     1.074     0.984     1.028     1.023
+              hh notw   1.00 True    0.092        0.084     0.110     0.079    1.013    1.097    1.118     1.013     1.127     1.160     1.042     1.123     1.063
+              hh notw   1.03 True    0.048        0.048     0.059     0.035    0.992    1.045    1.072     0.973     1.051     1.089     1.013     1.054     1.028
+              hh notw   1.05 True    0.033        0.029     0.048     0.008    0.979    1.012    1.045     0.957     1.016     1.070     0.994     1.012     1.006
+            hh hp_sga   1.00 True    0.089        0.087     0.106     0.072    0.999    1.102    1.123     1.004     1.124     1.151     1.035     1.111     1.057
+            hh hp_sga   1.03 True    0.048        0.053     0.058     0.027    0.977    1.050    1.078     0.964     1.048     1.083     1.005     1.043     1.022
+            hh hp_sga   1.05 True    0.035        0.037     0.048     0.008    0.964    1.018    1.051     0.948     1.013     1.064     0.986     1.001     0.999
+          hh appendix   1.00 True    0.085        0.080     0.102     0.068    0.999    1.079    1.124     1.004     1.108     1.154     1.037     1.103     1.055
+          hh appendix   1.03 True    0.044        0.048     0.054     0.023    0.978    1.028    1.079     0.964     1.034     1.084     1.008     1.035     1.020
+          hh appendix   1.05 True    0.035        0.036     0.047     0.008    0.965    0.996    1.052     0.949     0.999     1.065     0.988     0.993     0.997
+    fam nilf hhscreen   1.00 True    0.143        0.158     0.158     0.106    1.096    1.182    1.216     1.062     1.191     1.222     1.029     1.177     1.081
+    fam nilf hhscreen   1.03 True    0.099        0.122     0.101     0.064    1.075    1.128    1.170     1.022     1.112     1.147     1.002     1.107     1.048
+    fam nilf hhscreen   1.05 True    0.078        0.099     0.082     0.039    1.062    1.095    1.142     1.007     1.077     1.128     0.984     1.063     1.026
+fam appendix hhscreen   1.00 True    0.103        0.103     0.116     0.087    1.066    1.102    1.144     1.045     1.133     1.164     1.033     1.134     1.080
+fam appendix hhscreen   1.03 True    0.058        0.066     0.060     0.044    1.044    1.050    1.099     1.005     1.056     1.093     1.005     1.065     1.045
+fam appendix hhscreen   1.05 True    0.038        0.045     0.044     0.019    1.031    1.017    1.072     0.989     1.020     1.074     0.987     1.022     1.023

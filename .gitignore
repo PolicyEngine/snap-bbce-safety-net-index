@@ -1,0 +1,10 @@
+# Census microdata, Brookings' files and the samples built from them: rebuild with ./run_all.sh download samples
+data/
+# Record-level outputs of the PolicyEngine runs (one row per family); the per-state index files stay in git
+out/runs/*/families_*.csv.gz
+out/runs/*/logs/
+__pycache__/
+.venv/
+*.part
+.hypothesis/
+.pytest_cache/

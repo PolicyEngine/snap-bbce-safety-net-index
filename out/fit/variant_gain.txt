@@ -1,0 +1,51 @@
+             sample earn  scale   index  gain160  gain165  gain185  gain200
+      fam notw unit earn   1.00 1701.74    89.00    93.37    98.67   100.19
+      fam notw unit earn   1.03 1661.68    86.01    90.57    95.88    97.05
+      fam notw unit earn   1.05 1637.57    81.90    87.37    93.17    94.48
+      fam notw unit earn   1.07 1615.55    78.76    82.86    89.45    90.45
+      fam notw unit earn   1.10 1585.78    71.24    76.87    82.51    83.67
+      fam notw unit  own   1.00 1675.40    87.48    91.95    97.24    98.76
+      fam notw unit  own   1.03 1635.87    84.34    88.96    94.37    95.54
+      fam notw unit  own   1.05 1612.19    80.14    85.65    91.49    92.78
+      fam notw unit  own   1.07 1590.23    77.35    81.28    87.95    88.95
+      fam notw unit  own   1.10 1561.08    69.55    75.18    80.72    81.88
+  fam notw hhscreen earn   1.00 1624.06    89.31    93.70    98.88   100.23
+  fam notw hhscreen earn   1.03 1584.68    86.20    90.75    95.94    97.00
+  fam notw hhscreen earn   1.05 1561.24    81.78    87.25    92.93    94.10
+  fam notw hhscreen earn   1.07 1539.60    78.59    82.73    89.18    90.10
+  fam notw hhscreen earn   1.10 1510.38    70.97    76.66    82.18    83.24
+  fam notw hhscreen  own   1.00 1597.66    87.67    92.17    97.35    98.69
+  fam notw hhscreen  own   1.03 1558.94    84.29    88.92    94.20    95.27
+  fam notw hhscreen  own   1.05 1535.92    79.83    85.34    91.05    92.21
+  fam notw hhscreen  own   1.07 1514.37    76.97    80.95    87.49    88.40
+  fam notw hhscreen  own   1.10 1485.82    69.09    74.76    80.18    81.24
+fam hp_sga hhscreen earn   1.00 1623.59    89.25    93.64    98.84   100.18
+fam hp_sga hhscreen earn   1.03 1584.24    86.13    90.69    95.88    96.95
+fam hp_sga hhscreen earn   1.05 1560.76    81.79    87.25    92.92    94.09
+fam hp_sga hhscreen earn   1.07 1539.02    78.69    82.83    89.27    90.20
+fam hp_sga hhscreen earn   1.10 1509.85    71.06    76.73    82.24    83.30
+fam hp_sga hhscreen  own   1.00 1597.14    87.61    92.12    97.30    98.64
+fam hp_sga hhscreen  own   1.03 1558.44    84.23    88.86    94.14    95.20
+fam hp_sga hhscreen  own   1.05 1535.38    79.83    85.32    91.04    92.20
+fam hp_sga hhscreen  own   1.07 1513.75    77.07    81.04    87.57    88.48
+fam hp_sga hhscreen  own   1.10 1485.23    69.17    74.82    80.25    81.30
+            hh notw earn   1.00 1507.04    89.72    94.14    99.25   100.41
+            hh notw earn   1.03 1468.75    86.23    90.85    95.90    96.81
+            hh notw earn   1.05 1445.80    81.73    87.36    92.83    93.86
+            hh notw earn   1.07 1424.69    78.49    82.72    89.01    89.85
+            hh notw earn   1.10 1396.11    70.89    76.71    82.00    82.98
+            hh notw  own   1.00 1479.11    88.07    92.61    97.70    98.86
+            hh notw  own   1.03 1441.52    84.31    89.00    94.15    95.07
+            hh notw  own   1.05 1419.01    79.76    85.42    90.93    91.96
+            hh notw  own   1.07 1398.01    76.89    80.91    87.29    88.13
+            hh notw  own   1.10 1370.09    69.03    74.82    80.00    80.99
+        hh appendix earn   1.00 1507.09    89.74    94.16    99.27   100.43
+        hh appendix earn   1.03 1468.79    86.25    90.87    95.93    96.84
+        hh appendix earn   1.05 1445.84    81.75    87.39    92.85    93.89
+        hh appendix earn   1.07 1424.72    78.52    82.76    89.04    89.89
+        hh appendix earn   1.10 1396.14    70.91    76.75    82.04    83.02
+        hh appendix  own   1.00 1479.03    88.03    92.57    97.66    98.82
+        hh appendix  own   1.03 1441.44    84.28    88.97    94.12    95.04
+        hh appendix  own   1.05 1418.93    79.73    85.39    90.91    91.94
+        hh appendix  own   1.07 1397.92    76.88    80.90    87.28    88.12
+        hh appendix  own   1.10 1369.99    69.04    74.82    80.00    80.99

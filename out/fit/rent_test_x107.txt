@@ -1,0 +1,11 @@
+Wisconsin, families with no disabled member, earnings x 1.07; our plain-rules SNAP over Brookings' published SNAP
+rent is monthly, in 2024 dollars; 'all years' is the geometric mean over 2016-2019, 2023 and 2024
+
+ rent  2024 Single  2024 Ref person + spouse  2024 Partner  all years Single  all years Ref person + spouse  all years Partner
+    0        1.020                     1.003         1.047             1.028                          1.002              1.045
+  250        1.027                     1.005         1.050             1.036                          1.005              1.049
+  500        1.049                     1.014         1.067             1.063                          1.017              1.070
+  750        1.091                     1.036         1.104             1.113                          1.044              1.116
+ 1000        1.148                     1.079         1.167             1.180                          1.097              1.193
+ 1250        1.197                     1.139         1.240             1.240                          1.173              1.284
+ 1500        1.221                     1.198         1.297             1.269                          1.248              1.355

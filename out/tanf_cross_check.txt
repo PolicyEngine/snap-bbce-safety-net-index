@@ -1,0 +1,7 @@
+35 jurisdictions: median gain $91.44 (7.04% of Brookings' index); without the families PolicyEngine-US pays TANF, $90.57 (7.01%)
+gaining records with TANF: 1623 of 196883 in 30 of the 35 jurisdictions
+weight share of gaining families with TANF, pooled over the 35: 0.0077; unweighted: 0.0082
+weight share of gaining families with TANF, median over the 35: 0.0030; largest: {'NY': 0.0129, 'RI': 0.0234, 'ME': 0.0294, 'WI': 0.0475, 'CA': 0.0534}
+share of the gain to those families, largest: {'WA': 0.015, 'RI': 0.0246, 'ME': 0.0445, 'CA': 0.0606, 'WI': 0.0629}
+largest drops in the gain: {'NH': 0.87, 'WA': 1.38, 'ME': 4.1, 'CA': 5.58, 'WI': 5.78}
+other 16: largest gain without TANF families $9.74 (OH)

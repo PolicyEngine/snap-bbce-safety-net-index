@@ -1,0 +1,17 @@
+data/sample/persons.csv: 90127 families; weighted shares {'Partner/0': 0.077, 'Partner/1': 0.0107, 'Ref person + spouse/0': 0.5847, 'Ref person + spouse/1': 0.0396, 'Single/0': 0.2535, 'Single/1': 0.0345}
+Brookings WI 2024 (federal credits don't vary by state): {'Single/0': (2022, 887, 1282), 'Ref person + spouse/0': (439, 350, 3098), 'Partner/0': (1745, 852, 1841), 'Single/1': (1068, 404, 229), 'Ref person + spouse/1': (1473, 740, 1710), 'Partner/1': (2017, 854, 980)}
+                 cell     eitc    actc  ctc_used  eitc_ratio  actc_ratio  ctc_ratio
+             Single/0 2101.213 905.844  1237.391       1.039       1.021      0.965
+Ref person + spouse/0  505.991 385.463  3123.596       1.153       1.101      1.008
+            Partner/0 1936.583 897.954  1460.178       1.110       1.054      0.793
+             Single/1  919.939 369.786   275.707       0.861       0.916      1.203
+Ref person + spouse/1 1649.406 833.083  1702.826       1.120       1.125      0.996
+            Partner/1 1535.507 624.676   557.194       0.761       0.731      0.569
+
+ratios to Brookings by scale (eitc / actc / ctc used):
+  Single/0                 x1.00: 1.039/1.021/0.965  x1.07: 0.976/0.976/1.025
+  Ref person + spouse/0    x1.00: 1.153/1.101/1.008  x1.07: 1.000/0.977/1.020
+  Partner/0                x1.00: 1.110/1.054/0.793  x1.07: 1.030/0.992/0.840
+  Single/1                 x1.00: 0.861/0.916/1.203  x1.07: 0.831/0.905/1.311
+  Ref person + spouse/1    x1.00: 1.120/1.125/0.996  x1.07: 1.030/1.055/1.041
+  Partner/1                x1.00: 0.761/0.731/0.569  x1.07: 0.728/0.714/0.619

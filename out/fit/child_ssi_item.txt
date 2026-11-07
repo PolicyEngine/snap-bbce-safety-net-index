@@ -1,0 +1,6 @@
+ASEC year: weighted share of children under 18 with SSIKIDYN == 1 (the item that names children receiving SSI)
+2015 0.0015 item present
+2016 0.0013 item present
+2017 0.0012 item present
+2018 0.0010 item present
+2019 0.0000 item absent (all zero)

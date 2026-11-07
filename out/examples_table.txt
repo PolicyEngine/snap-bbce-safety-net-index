@@ -1,0 +1,10 @@
+single parent of two, no rent: earnings | federal rules (TX) | CA | TX | OH | AR
+32500 0 175 175 0 0
+35000 0 125 125 0 0
+37500 0 75 75 0 0
+40000 0 25 25 0 0
+42500 0 0 0 0 0
+with $1,000/month rent at $32,500: CA 358 TX 180 | federal rules CA 0 TX 0
+$32,500 of self-employment income instead of wages, no rent: CA 448 TX 175 | federal rules CA 448 TX 0
+parent + 1 child at $38,000 (193% of the 2023 guideline): CA 23 federal rules 0
+parent + 1 child at $36,000: NJ 95 federal rules NJ 0

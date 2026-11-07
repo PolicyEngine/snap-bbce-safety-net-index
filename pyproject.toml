@@ -1,0 +1,27 @@
+[project]
+name = "snap-bbce-safety-net-index"
+version = "0.1.0"
+description = "What broad-based categorical eligibility adds to the SNAP index in Brookings' State Safety Net Database"
+requires-python = ">=3.12,<3.13"
+# The versions that produced the committed outputs.
+dependencies = [
+    "policyengine-us==2.100.0",
+    "policyengine-core==3.34.7",
+    "pandas==3.1.1",
+    "numpy==2.5.4",
+    "pyyaml==6.0.3",
+    "openpyxl==3.1.5",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+# The tests' own tools (uv run pytest).
+dev = [
+    "hypothesis==6.170.15",
+    "pytest==9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

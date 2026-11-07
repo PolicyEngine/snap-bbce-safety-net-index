@@ -1,0 +1,3 @@
+BBCE jurisdictions in PE (of 50 states and DC): 42; in FNS chart (incl. GU, VI): 44
+NY dependent care limit in PE: 2.0
+mismatches (state, PE limit, PE asset, FNS limit, FNS asset): none

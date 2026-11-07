@@ -1,0 +1,7 @@
+single parent of 2, $35,000, CA: SNAP with BBCE $125/mo, federal rules $0/mo; gross $2917, net $2135; fed gross test False, net test False
+single parent of 2, $35,000, TX: SNAP with BBCE $125/mo, federal rules $0/mo; gross $2917, net $2135; fed gross test False, net test False
+single parent of 2, $35,000, MO (no BBCE): SNAP with BBCE $0/mo, federal rules $0/mo; gross $2917, net $2135; fed gross test False, net test False
+married couple + 2, $39,000, MO: SNAP with BBCE $255/mo, federal rules $255/mo; gross $3250, net $2392; fed gross test True, net test True
+married couple + 2, $39,001, MO: SNAP with BBCE $0/mo, federal rules $0/mo; gross $3250, net $2392; fed gross test False, net test True
+married couple + 2, $39,001, TX: SNAP with BBCE $255/mo, federal rules $0/mo; gross $3250, net $2392; fed gross test False, net test True
+married couple + 2, $45,000, TX: SNAP with BBCE $135/mo, federal rules $0/mo; gross $3750, net $2792; fed gross test False, net test False

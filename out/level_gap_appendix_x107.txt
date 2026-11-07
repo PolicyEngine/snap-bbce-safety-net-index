@@ -1,0 +1,9 @@
+PE federal-rules index over Brookings', all 51: median 5.982%, IQR 2.355-14.409%, range -3.58% (WI) to 57.29% (MN)
+PE federal-rules index over Brookings', 49 (48 states and DC): median 5.982%, IQR 2.284-14.294%, range -3.58% (WI) to 57.29% (MN)
+  CA 25.16%, VT 22.09%
+  13 jurisdictions where PE's own rules give every household the SUA: median 14.55%; other 38: median 4.51%
+corr(PE federal-rules SNAP, Brookings SNAP), 49: 0.397
+corr(PE TANF, Brookings TANF), 49: nan
+Brookings SNAP on Brookings TANF, 49: slope -0.2677, correlation -0.9870, R^2 0.9741
+PE SSI index: min $831.89, max $831.89
+gainers receiving TANF (zero by construction; see tanf_cross_check.py): 0; receiving SSI: 18404; families losing SNAP under BBCE: 0

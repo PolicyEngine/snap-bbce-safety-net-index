@@ -1,0 +1,70 @@
+Brookings cell shares recovered from its files (rms fit error $0.00): {'Partner/0': 0.0752, 'Partner/1': 0.0122, 'Ref person + spouse/0': 0.576, 'Ref person + spouse/1': 0.0393, 'Single/0': 0.2617, 'Single/1': 0.0355}; sum 1.0000
+sample cell shares: {'Partner/0': 0.077, 'Partner/1': 0.0107, 'Ref person + spouse/0': 0.5847, 'Ref person + spouse/1': 0.0396, 'Single/0': 0.2535, 'Single/1': 0.0345}; summed absolute gap to Brookings' 0.0214
+
+=== appendix_x107 (out/summary_appendix_x107.csv)
+  35 jurisdictions, gain $/family/yr: median 91.44, IQR 84.19-91.46, range 18.09 (RI) to 102.97 (HI)
+  35 jurisdictions, gain % of Brookings' index: median 7.04, IQR 6.57-7.65, range 1.38 (LA) to 9.45 (MN)
+  35 jurisdictions, gain % of PE federal-rules index: median 6.68, IQR 6.14-6.69, range 1.32 (LA) to 6.96 (CA)
+  other 16, largest gain: $10.24 (OH); gains above $0.50: {'AL': 1.33, 'GA': 1.33, 'OH': 10.24, 'SC': 1.33}
+  gainers receiving TANF (zero by construction; see tanf_cross_check.py): 0; receiving SSI (unweighted, all states): 18404; families losing SNAP: 0
+  state minimums included: DC $228.17, MD $91.56, NJ $137.80
+  35 jurisdictions, gain reweighted to Brookings' cell shares: median 91.69, IQR 84.38-91.71, range 18.18 (RI) to 103.40 (HI) | % of Brookings' index: median 7.06
+  WI federal-rules index $1350.27 vs Brookings $1400.44 (-3.58%); SSI index $831.89 vs Brookings $699.27; TANF index $0.00 vs Brookings $0.00
+  49 jurisdictions: PE/Brookings federal-rules ratio median 1.060, IQR 1.023-1.143, range 0.964 (WI) to 1.573 (MN)
+  49 jurisdictions, regressed on Brookings' TANF index: Brookings 1434.2 -0.2677 x TANF; PE 1371.7 -0.0086 x TANF; corr(PE, Brookings) 0.397
+  PE SSI index across 51: $831.89 to $831.89; Brookings $633.60 to $876.10
+  Wisconsin by cell:
+                 cell  share  brookings_share     snap  brookings_snap       ssi  brookings_ssi    gain  snap_ratio
+            Partner/0  0.077            0.075 1279.069     1221.910034     0.000       0.000000 137.778       1.047
+            Partner/1  0.011            0.012 2550.924     3164.758057 12415.683   11029.584961 188.825       0.806
+Ref person + spouse/0  0.585            0.576  458.061      456.234009     0.000       0.000000  72.403       1.004
+Ref person + spouse/1  0.040            0.039 1891.532     2213.205078  7405.786    4762.509766 224.716       0.855
+             Single/0  0.253            0.262 2912.226     2852.224121     0.000       0.000000 104.091       1.021
+             Single/1  0.035            0.035 4154.363     4889.818848 11733.975   10632.338867  49.750       0.850
+
+=== appendix_x100 (out/summary_appendix_x100.csv)
+  35 jurisdictions, gain $/family/yr: median 100.40, IQR 94.06-100.42, range 27.69 (RI) to 156.56 (HI)
+  35 jurisdictions, gain % of Brookings' index: median 7.73, IQR 7.27-8.41, range 2.12 (LA) to 10.50 (MN)
+  35 jurisdictions, gain % of PE federal-rules index: median 6.92, IQR 6.48-6.94, range 1.91 (LA) to 7.29 (CA)
+  other 16, largest gain: $10.17 (OH); gains above $0.50: {'AL': 1.16, 'GA': 1.16, 'OH': 10.17, 'SC': 1.16}
+  gainers receiving TANF (zero by construction; see tanf_cross_check.py): 0; receiving SSI (unweighted, all states): 19565; families losing SNAP: 0
+  state minimums included: DC $246.67, MD $100.56, NJ $148.79
+  35 jurisdictions, gain reweighted to Brookings' cell shares: median 100.52, IQR 94.12-100.55, range 27.78 (RI) to 157.34 (HI) | % of Brookings' index: median 7.74
+  WI federal-rules index $1429.89 vs Brookings $1400.44 (+2.10%); SSI index $839.76 vs Brookings $699.27; TANF index $0.00 vs Brookings $0.00
+  49 jurisdictions: PE/Brookings federal-rules ratio median 1.122, IQR 1.083-1.210, range 1.021 (WI) to 1.666 (MN)
+  49 jurisdictions, regressed on Brookings' TANF index: Brookings 1434.2 -0.2677 x TANF; PE 1452.6 -0.0090 x TANF; corr(PE, Brookings) 0.394
+  PE SSI index across 51: $839.76 to $839.76; Brookings $633.60 to $876.10
+  Wisconsin by cell:
+                 cell  share  brookings_share     snap  brookings_snap       ssi  brookings_ssi    gain  snap_ratio
+            Partner/0  0.077            0.075 1397.193     1221.910034     0.000       0.000000 156.132       1.143
+            Partner/1  0.011            0.012 2665.896     3164.758057 12442.962   11029.584961 188.564       0.842
+Ref person + spouse/0  0.585            0.576  510.895      456.234009     0.000       0.000000  83.195       1.120
+Ref person + spouse/1  0.040            0.039 1965.700     2213.205078  7575.803    4762.509766 236.365       0.888
+             Single/0  0.253            0.262 3047.986     2852.224121     0.000       0.000000 109.402       1.069
+             Single/1  0.035            0.035 4184.754     4889.818848 11758.485   10632.338867  53.186       0.856
+
+=== pe_rules_x107 (out/summary_pe_rules_x107.csv)
+  35 jurisdictions, gain $/family/yr: median 89.29, IQR 82.41-89.42, range 17.29 (RI) to 101.31 (HI)
+  35 jurisdictions, gain % of Brookings' index: median 6.88, IQR 6.28-7.59, range 1.36 (LA) to 9.27 (MN)
+  35 jurisdictions, gain % of PE federal-rules index: median 6.94, IQR 6.51-7.36, range 1.47 (RI) to 11.17 (CA)
+  other 16, largest gain: $9.55 (OH); gains above $0.50: {'AL': 0.96, 'GA': 0.96, 'OH': 9.55, 'SC': 0.78}
+  gainers receiving TANF (zero by construction; see tanf_cross_check.py): 0; receiving SSI (unweighted, all states): 16939; families losing SNAP: 0
+  state minimums included: DC $225.12, MD $89.42, NJ $136.00
+  35 jurisdictions, gain reweighted to Brookings' cell shares: median 89.53, IQR 82.60-89.65, range 17.39 (RI) to 101.73 (HI) | % of Brookings' index: median 6.90
+  WI federal-rules index $1052.80 vs Brookings $1400.44 (-24.82%); SSI index $831.89 vs Brookings $699.27; TANF index $1125.85 vs Brookings $0.00
+  49 jurisdictions: PE/Brookings federal-rules ratio median 0.960, IQR 0.936-1.002, range 0.716 (CA) to 1.278 (VT)
+  49 jurisdictions, regressed on Brookings' TANF index: Brookings 1434.2 -0.2677 x TANF; PE 1329.1 -0.1541 x TANF; corr(PE, Brookings) 0.507
+  PE SSI index across 51: $831.89 to $831.89; Brookings $633.60 to $876.10
+  Wisconsin by cell:
+                 cell  share  brookings_share     snap  brookings_snap       ssi  brookings_ssi    gain  snap_ratio
+            Partner/0  0.077            0.075 1027.621     1221.910034     0.000       0.000000 135.670       0.841
+            Partner/1  0.011            0.012 1787.526     3164.758057 12415.683   11029.584961  64.676       0.565
+Ref person + spouse/0  0.585            0.576  349.903      456.234009     0.000       0.000000  70.189       0.767
+Ref person + spouse/1  0.040            0.039 1248.572     2213.205078  7405.786    4762.509766 116.193       0.564
+             Single/0  0.253            0.262 2433.423     2852.224121     0.000       0.000000 102.524       0.853
+             Single/1  0.035            0.035 2421.685     4889.818848 11733.975   10632.338867  32.348       0.495
+
+          run  median_gain_35  median_pct_brookings_35  median_gain_35_brookings_cells  max_gain_other_16  wi_fed_rules  wi_brookings  median_ratio_49  pe_intercept_on_brookings_tanf  pe_slope_on_brookings_tanf  gainers_with_tanf  losers
+appendix_x107          91.443                    7.043                          91.693             10.240      1350.268      1400.443            1.060                        1371.683                      -0.009                  0       0
+appendix_x100         100.400                    7.732                         100.522             10.171      1429.886      1400.443            1.122                        1452.600                      -0.009                  0       0
+pe_rules_x107          89.288                    6.883                          89.525              9.554      1052.801      1400.443            0.960                        1329.061                      -0.154                  0       0

@@ -1,0 +1,37 @@
+run out/runs/replicate_x107: PolicyEngine-US against Brookings 2024, 51 jurisdictions
+
+Brookings       PolicyEngine-US                               median BK    median PE median ratio           IQR   corr   Wisconsin BK / PE
+snap            snap                                             $1,295       $1,232        0.962  0.936- 0.982  0.949   $1,400 / $1,056
+tanf            tanf                                               $559         $581        1.020  0.828- 1.206  0.659   $0 / $1,126
+ssi             ssi_total                                          $634         $832        1.313  1.308- 1.313  0.922   $699 / $917
+ssi             ssi                                                $634         $832        1.313  1.268- 1.313 -0.000   $699 / $832
+fedeitc         eitc                                             $1,034         $992        0.959  0.959- 0.959    nan   $1,034 / $992
+steitc          state_eitc                                         $102          $98        0.959  0.959- 0.960  0.837   $159 / $158
+actc            refundable_ctc                                     $552         $535        0.969  0.969- 0.969    nan   $552 / $535
+ctc             ctc                                              $2,346       $3,460        1.475  1.475- 1.475  0.020   $2,346 / $3,460
+ctc             income_tax_capped_non_refundable_credits         $2,346       $2,386        1.017  1.017- 1.017 -0.020   $2,346 / $2,386
+fii_credit      income_tax_refundable_credits                    $1,518       $1,526        1.005  1.005- 1.005    nan   $1,518 / $1,526
+sii_credit      state_refundable_credits                            $32          $95        1.383  1.185- 1.935  0.977   $101 / $158
+medicaid_adult  medicaid_adult                                    0.249        0.249        1.002  0.982- 1.005  0.937   0.191 / 0.192
+medicaid_child  medicaid_child                                    0.381        0.356        0.969  0.763- 1.176  0.325   0.449 / 0.336
+medicaid_child  medicaid_or_chip_child                            0.381        0.457        1.184  1.164- 1.226  0.990   0.449 / 0.525
+
+by cell, median ratio of PolicyEngine-US to Brookings across states (cells where Brookings' value is positive):
+cell                                                     Partner/0  Partner/1  Ref person + spouse/0  Ref person + spouse/1  Single/0  Single/1
+program        pe_variable                                                                                                                     
+snap           snap                                          1.064      0.763                  1.004                  0.824     1.019     0.794
+tanf           tanf                                          0.412      1.140                  0.941                  1.525     1.028     1.156
+ssi            ssi_total                                       NaN      1.231                    NaN                  1.772       NaN     1.203
+               ssi                                             NaN      1.231                    NaN                  1.772       NaN     1.203
+fedeitc        eitc                                          1.026      0.723                  0.990                  1.004     0.968     0.808
+steitc         state_eitc                                    1.026      0.723                  0.990                  1.004     0.968     0.808
+actc           refundable_ctc                                0.992      0.714                  0.977                  1.055     0.976     0.905
+ctc            ctc                                           1.815      3.586                  1.163                  2.024     2.490    14.136
+               income_tax_capped_non_refundable_credits      0.840      0.619                  1.020                  1.041     1.025     1.311
+fii_credit     income_tax_refundable_credits                 1.388      0.852                  0.990                  1.030     0.978     0.837
+sii_credit     state_refundable_credits                      2.238      1.252                  1.641                  1.279     1.178     0.904
+medicaid_adult medicaid_adult                                1.119      1.103                  1.011                  1.041     1.004     0.989
+medicaid_child medicaid_child                                1.120      1.153                  1.009                  1.208     0.888     1.037
+               medicaid_or_chip_child                        1.268      1.196                  1.433                  1.349     1.071     1.047
+
+sample cell shares (mean over states): {'Partner/0': 0.077, 'Partner/1': 0.0107, 'Ref person + spouse/0': 0.5847, 'Ref person + spouse/1': 0.0396, 'Single/0': 0.2535, 'Single/1': 0.0345}

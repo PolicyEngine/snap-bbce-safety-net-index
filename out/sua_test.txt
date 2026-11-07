@@ -1,0 +1,20 @@
+PolicyEngine-US always-SUA jurisdictions on 2024-07-01 (13): CA CT DC MA ME MI MT NY OR PA RI VT WA
+$ per family per year, July 2024 x 12; Brookings' residual from SNAP = 1434.2 -0.2677 x TANF (49 jurisdictions)
+       fed_rules_no_sua  fed_rules_with_sua  sua_adds  sua_adds_pct  bbce_gain_no_sua  bbce_gain_with_sua  brookings_residual
+state                                                                                                                        
+CA              1322.06             1371.15     49.09          3.71             92.07               92.07              107.52
+CT              1369.47             1533.92    164.45         12.01             91.43               93.59              -29.54
+DC              1369.49             1382.07     12.58          0.92             91.44               91.44               -5.24
+MA              1346.36             1480.46    134.10          9.96             92.39               93.15              -25.55
+ME              1367.46             1570.29    202.83         14.83             91.98               96.92               -5.14
+MI              1366.65             1452.75     86.10          6.30             91.48               91.48               -2.87
+MT              1369.49             1467.80     98.32          7.18             91.44               91.44               -5.15
+NY              1364.97             1493.62    128.64          9.42             65.68               65.94              -13.73
+OR              1369.49             1401.45     31.96          2.33             92.02               92.02                3.93
+PA              1364.94             1470.51    105.57          7.73             91.41               91.41               -0.33
+RI              1361.38             1478.06    116.68          8.57             18.09               18.12              -14.26
+VT              1357.91             1560.33    202.42         14.91             90.62               95.90              -16.51
+WA              1362.19             1395.40     33.21          2.44             91.92               91.92               -7.44
+SUA adds to the federal-rules index: median $105.57 (7.73%), range $12.58 (DC) to $202.83 (ME)
+BBCE gain with the SUA: median $91.92, against $91.44 without it
+Brookings' residual: median $-5.24 in these 13, $+3.28 in the other 36 of the 49

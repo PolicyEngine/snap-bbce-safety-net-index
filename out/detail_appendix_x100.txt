@@ -1,0 +1,46 @@
+jurisdictions with a BBCE limit above 130% for working families: 35 (incl. DC and NY): ['AZ', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'HI', 'IA', 'IL', 'KY', 'LA', 'MA', 'MD', 'ME', 'MI', 'MN', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM', 'NV', 'NY', 'OR', 'PA', 'RI', 'TX', 'VA', 'VT', 'WA', 'WI', 'WV']
+other 16: ['AK', 'AL', 'AR', 'GA', 'ID', 'IN', 'KS', 'MO', 'MS', 'OH', 'OK', 'SC', 'SD', 'TN', 'UT', 'WY']
+  gain $/family/yr: median 100.400, IQR 94.056-100.424, range 27.691-156.557
+  gain % of Brookings' index: median 7.732, IQR 7.274-8.408, range 2.120-10.496
+  gain % of PE fed-rules index: median 6.922, IQR 6.480-6.938, range 1.909-7.292
+  other jurisdictions: max gain {'AK': 0.0, 'AL': 1.16, 'AR': 0.0, 'GA': 1.16, 'ID': 0.0, 'IN': 0.0, 'KS': 0.0, 'MO': 0.0, 'MS': 0.0, 'OH': 10.17, 'OK': 0.0, 'SC': 1.16, 'SD': 0.0, 'TN': 0.0, 'UT': 0.0, 'WY': 0.0}
+  net-test states: {'HI': 156.6, 'LA': 27.7, 'ND': 27.7, 'RI': 27.7}
+  without the net test (31):  median 100.400, IQR 99.293-100.424, range 72.734-102.258 | % Brookings: median 7.775, IQR 7.391-8.455, range 5.910-10.496
+    limit for working families 1.5: ['NY'] median gain 72.7, median % Brookings 5.9
+    limit for working families 1.6: ['IA'] median gain 89.5, median % Brookings 6.7
+    limit for working families 1.65: ['IL', 'NE', 'NM', 'TX'] median gain 94.0, median % Brookings 7.2
+    limit for working families 1.85: ['AZ', 'NJ', 'VT'] median gain 99.5, median % Brookings 7.7
+    limit for working families 2.0: ['CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'KY', 'MA', 'MD', 'ME', 'MI', 'MN', 'MT', 'NC', 'NH', 'NV', 'OR', 'PA', 'VA', 'WA', 'WI', 'WV'] median gain 100.4, median % Brookings 8.1
+PE fed-rules / Brookings SNAP, all 51: median 1.122, IQR 1.084-1.212; excl AK/HI median 1.122
+corr(PE SNAP fed rules, PE TANF) all 51 nan; corr(Brookings SNAP, Brookings TANF) all 51 -0.202
+median PE/Brookings ratio, 13 jurisdictions where PE's own rules give every household the SUA 1.213, other 38 1.107
+
+share of all sample families with SNAP > 0 (fed rules -> with BBCE), and share gaining:
+     share_positive_fed_nobbce  share_positive_fed_bbce  share_gaining
+min                     0.2165                   0.2329         0.0133
+50%                     0.2202                   0.3027         0.0826
+max                     0.2568                   0.3056         0.0860
+       share_positive_fed_nobbce  share_positive_fed_bbce  share_gaining
+state                                                                   
+CA                        0.2165                   0.3005         0.0840
+FL                        0.2202                   0.3028         0.0826
+TX                        0.2202                   0.2835         0.0632
+NY                        0.2199                   0.2589         0.0391
+LA                        0.2202                   0.2335         0.0133
+HI                        0.2568                   0.2749         0.0181
+MA                        0.2185                   0.3045         0.0860
+
+pooled over those jurisdictions: share of the BBCE gain by family earnings (% of the 2023 guideline):
+pct_fpg
+<=100      0.0215
+100-130    0.0433
+130-150    0.6838
+150-165    0.2035
+165-185    0.0382
+185-200    0.0089
+>200       0.0009
+share of gain by family type: {'married': 0.5646, 'partner': 0.137, 'single': 0.2984}
+share of gain to families with an elderly/disabled SNAP member: 0.0922
+share of gain to families with SSI: 0.0869
+average monthly gain per gaining family across those jurisdictions: median $101.32 (range 98.69-719.96)
+  Hawaii $719.96; the other 34: $98.69 (ME) to $173.58 (LA)

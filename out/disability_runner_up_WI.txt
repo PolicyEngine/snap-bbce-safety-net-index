@@ -1,0 +1,20 @@
+Wisconsin, July 2024, Brookings' appendix SNAP setting (no utility allowance, students kept, no TANF)
+Brookings Wisconsin 2024: SNAP $1,400.44, SSI $699.27
+
+main_x107: SNAP index $1350.27, SSI index $831.89, gain $91.97, any disabled 0.0849
+                 cell  share     snap  brookings_snap       ssi  brookings_ssi    gain  with_ssi  snap_ratio  ssi_ratio
+            Partner/0  0.077 1279.069        1221.910     0.000          0.000 137.778     0.000       1.047        NaN
+            Partner/1  0.011 2550.924        3164.758 12415.683      11029.585 188.825     0.958       0.806      1.126
+Ref person + spouse/0  0.585  458.061         456.234     0.000          0.000  72.403     0.000       1.004        NaN
+Ref person + spouse/1  0.040 1891.532        2213.205  7405.786       4762.510 224.716     0.641       0.855      1.555
+             Single/0  0.253 2912.226        2852.224     0.000          0.000 104.091     0.000       1.021        NaN
+             Single/1  0.035 4154.363        4889.819 11733.975      10632.339  49.750     0.953       0.850      1.104
+
+hp_sga_x107: SNAP index $1347.22, SSI index $840.02, gain $92.40, any disabled 0.0888
+                 cell  share     snap  brookings_snap       ssi  brookings_ssi    gain  with_ssi  snap_ratio  ssi_ratio
+            Partner/0  0.077 1276.497        1221.910     0.000          0.000 138.081     0.000       1.045        NaN
+            Partner/1  0.011 2489.384        3164.758 11953.819      11029.585 202.277     0.977       0.787      1.084
+Ref person + spouse/0  0.583  459.982         456.234     0.000          0.000  71.741     0.000       1.008        NaN
+Ref person + spouse/1  0.042 1818.251        2213.205  6994.512       4762.510 232.100     0.627       0.822      1.469
+             Single/0  0.252 2883.975        2852.224     0.000          0.000 105.171     0.000       1.011        NaN
+             Single/1  0.036 4199.798        4889.819 11545.247      10632.339  44.268     0.963       0.859      1.086
